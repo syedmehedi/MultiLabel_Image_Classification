@@ -2,7 +2,7 @@
 # ## Readme
 # ###How to Run:
 # From Spyder
-#### 1. Please open code/Alogithm/Comp_5329_Assig2_Program.py 
+#### 1. Please open code/Alogithm/Multilabel_Image.py 
 # #### 2. Please goto  Menu -> Run ->  or from keyboard please press (ctrl + F5)
 
 # From Anaconda Prompt
